@@ -15,5 +15,6 @@ I'm Giada, and I've just begun my journey into learning code! <br/>
 
 
 ### Fields of application
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code> <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
