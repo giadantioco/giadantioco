@@ -7,7 +7,7 @@ I'm Giada, and I've just begun my journey into learning code! <br/>
 🌪 React seems so difficult at first!😵‍💫 <br/>
 🥲 Hopefully I will get there! <br/>
 
-
+[![Visits Badge](https://badges.pufler.dev/visits/giadantioco/giadantioco)]
 
 ### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giadantioco"/>
