@@ -1,4 +1,5 @@
-### Hi there! 
+### Hi there! <img src="https://github.com/giadantioco/giadantioco/assets/148788448/368a3e67-0c56-472f-8c98-f5c516197907>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif">
 
