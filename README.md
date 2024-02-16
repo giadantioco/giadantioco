@@ -14,9 +14,4 @@ I can't wait to begin this new adventure!
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giadantioco"/>
 </p>
 
-<p align="center">
-### Fields of application
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code> <br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-[![Visits Badge](https://badges.pufler.dev/visits/giadantioco/giadantioco)]
-</p>
+
