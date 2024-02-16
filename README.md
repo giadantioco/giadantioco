@@ -11,7 +11,8 @@ I can't wait to begin this new adventure!
 
 <p align="center">
 ### Languages
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giadantioco"/>
 </p>
-
 
