@@ -14,6 +14,5 @@ I can't wait to begin this new adventure!
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code> <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.html"</code>
 
 [![Visits Badge](https://badges.pufler.dev/visits/giadantioco/giadantioco)]
