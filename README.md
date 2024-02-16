@@ -6,6 +6,6 @@
 <p align="center">
 I'm Giada, and I am passionate about learning to code! <br>
 This magical journey began last year when, as a joke, I started learning some HTML and CSS. I joined a two-month course last November for frontend development. It was an intensive course that helped me understand what programming is really about. Guess what happened as soon as I realized there is so much more to coding? Aside from risking a mental breakdown, I simply fell in love and dove into programming! I am currently learning JavaScript, and I have just written my first widget app. I have also decided to take my learning further and enroll in a full-time boot camp focused on frontend development, which will start in May. <br>
-I can't wait to begin this new adventure
+I can't wait to begin this new adventure :)
 </p>
 
