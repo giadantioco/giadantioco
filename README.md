@@ -4,8 +4,10 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif"></p>
 
 <p align="center">
-I'm Giada, and I am passionate about learning to code! <br>
-This magical journey began last year when, as a joke, I started learning some HTML and CSS. I joined a two-month course last November for frontend development. It was an intensive course that helped me understand what programming is really about. Guess what happened as soon as I realized there is so much more to coding? Aside from risking a mental breakdown, I simply fell in love and dove into programming! I am currently learning JavaScript, and I have just written my first widget app. I have also decided to take my learning further and enroll in a full-time boot camp focused on frontend development, which will start in May. <br>
-I can't wait to begin this new adventure :)
+🙋🏻‍♀️ I'm Giada! <br>
+🤓 Full time lear-in-progress frontend dev<br>
+🚁 Part time drone driver <br>
+🎮 FPS & RP Games lover<br>
+🐶🐯 My Fav Companions 💻
 </p>
 
