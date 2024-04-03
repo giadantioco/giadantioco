@@ -7,7 +7,7 @@
 🙋🏻‍♀️ I'm Giada! <br>
 🤓 Full time lear-in-progress frontend dev<br>
 🚁 Part time drone driver <br>
-🎮 FPS & RP Games lover<br>
-🐶🐯 My Fav Companions 💻
+🎮 FPS & RP games lover<br>
+🐶🐯 Mum of two, soon of three 🤰🏻
 </p>
 
